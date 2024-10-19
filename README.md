@@ -45,7 +45,15 @@
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=qt" height="40" alt="qt logo" title="Qt" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
+    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" title="Sass" />
 </div>
+
 
 <br>
 
