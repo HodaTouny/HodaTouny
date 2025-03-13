@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React" />
   <img width="12" />
-    <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" title="Sass" />
+    
 </div>
 
 
